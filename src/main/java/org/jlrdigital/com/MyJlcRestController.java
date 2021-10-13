@@ -8,7 +8,7 @@ public class MyJlcRestController {
 
 	@GetMapping("/getsms")
 	public String getMsg() {
-		return "Welcome to JLC Spring-APP---Wow Its Running.......";
+		return "Welcome to JLC Spring-APP---Wow Its Running...Test....";
 	}
 	
 	
