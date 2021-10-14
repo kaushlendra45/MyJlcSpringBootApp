@@ -8,6 +8,7 @@ public class MyJlcSpringBootAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyJlcSpringBootAppApplication.class, args);
+		System.out.println("Update 12......");
 	}
 
 }
