@@ -10,6 +10,7 @@ public class MyJlcSpringBootAppApplication {
 		SpringApplication.run(MyJlcSpringBootAppApplication.class, args);
 		System.out.println("Update 12.......");
 		System.out.println("Update 13.......");
+		System.out.println("Update 14.......");
 	}
 
 }
